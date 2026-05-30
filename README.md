@@ -1,4 +1,4 @@
-note : if you want to see .ipynb file download zip file.
+note : if you want to see .ipynb file Download ZIP.
 
 # 🚀 Oasis Infobyte Data Science Internship Projects
 
