@@ -1,3 +1,5 @@
+note : if you want to see .ipynb file download zip file.
+
 # 🚀 Oasis Infobyte Data Science Internship Projects
 
 This repository contains all the Machine Learning and Data Science projects completed during my internship at Oasis Infobyte.  
